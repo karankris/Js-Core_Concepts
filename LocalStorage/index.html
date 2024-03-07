@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>demo1</title>
+    </head>
+    <body>
+        <input type="text" id="name">
+        <input type="submit" id="next" onclick="valid()">
+        <script>
+        function  valid(){
+            var name = document.getElementById("name").value;
+            if (name.length > 2)
+            {
+                window.location.href = "index2.html";
+                localStorage.setItem("fname", name);
+                console.log(name);
+            }
+
+            else{
+               document.getElementById("name").style="border:1px solid red";
+            }
+        }
+             
+        </script>
+    </body>
+</html>
