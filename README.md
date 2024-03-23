@@ -1,3 +1,3 @@
 # Js-Core_Concepts
 
-[Hoisting:](https://github.com/karankris/Js-Core_Concepts/tree/main/A)
+[Concept 1 Hoisting:](https://github.com/karankris/Js-Core_Concepts/tree/main/A)
