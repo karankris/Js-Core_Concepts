@@ -1,3 +1,3 @@
-# Js-Core_Concepts
+## Js-Core_Concepts
 
 [Concept 1 Hoisting:](https://github.com/karankris/Js-Core_Concepts/blob/main/A)
