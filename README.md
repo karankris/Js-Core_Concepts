@@ -22,7 +22,7 @@ JavaScript is a versatile programming language that powers the web. Understandin
 - [Let & Const](https://github.com/karankris/Js-Core_Concepts/blob/main/F%29%20Let%20%26%20Const/index.js)
 - [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%2920Block%20Scope%20%26%20Shadowing/index.js)
 - [Closures](https://github.com/karankris/Js-Core_Concepts/blob/main/H%29%20Closures/index.js)
-- Error Handling
+- [setTimeout](https://github.com/karankris/Js-Core_Concepts/blob/main/I%29%20setTimeout/index.js)
 
 Each concept is explained in detail with code examples to illustrate its usage and importance in JavaScript development.
 
