@@ -40,9 +40,10 @@ Each concept is explained in detail with code examples to illustrate its usage a
 ## Installation
 
 To utilize the resources in this repository, simply clone the repository to your local machine:
+
 ```bash
 git clone https://github.com/karankris/Js-Core_Concepts.git
- ```
+```
 
 ## Usage
 
