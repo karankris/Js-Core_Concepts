@@ -55,5 +55,25 @@ For example, to understand hoisting, navigate to the `hoisting` directory:
 cd Js-Core_Concepts/hoisting
 ```
 
+Within this directory, you'll find explanations and examples of hoisting in JavaScript, aiding your understanding of how variable and function declarations are hoisted to the top of their containing scope.
+
+Feel free to explore other concepts in a similar manner, experimenting with the provided code examples and enhancing your JavaScript proficiency.
+
+## Contributing
+
+Contributions to this repository are welcome! Whether it's fixing a typo, adding more examples, or introducing new concepts, your contributions help make this resource more valuable to the community. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-contribution`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-contribution`).
+6. Create a new Pull Request.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 
 
