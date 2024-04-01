@@ -40,6 +40,16 @@ Each concept is explained in detail with code examples to illustrate its usage a
 ## Installation
 
 To utilize the resources in this repository, simply clone the repository to your local machine:
+git clone https://github.com/karankris/Js-Core_Concepts.git
+
+
+## Usage
+
+Once cloned, navigate to the directory containing the concept you wish to explore. Each concept is organized into its respective folder with clear documentation and code samples.
+
+For example, to understand hoisting, navigate to the `hoisting` directory:
+
+cd Js-Core_Concepts/hoisting
 
 
 
