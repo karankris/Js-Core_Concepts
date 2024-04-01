@@ -15,7 +15,7 @@ x();
 //Closure Example 2 (What happens when we return a function):
 /* <<---
 function x(){
-    var a=10;
+    var a=10; // ---> remember the variable even after the function is popped out
     function y(){
         console.log(a);
     }
@@ -36,18 +36,18 @@ function x(){
 /***----------------------------------------------------------------------------------------------***/
 // Example:3 change the value of the reference variable inside the function x()
 /* <<---
-// function x() {
-//     var a = 10;
-//     function y() {
-//         console.log(a);
-//     }
-//     a = 100; //--> Changes the reference value to 100 in the console **NOTE :'a' does not refereces to a value !! It's only the reference of the function is been returned here**
-//     return y;
-// }
-// var z = x();
-// console.log(z);
-// z();
-//       ---->>*/
+function x() {
+    var a = 10;
+    function y() {
+        console.log(a);
+    }
+    a = 100; //--> Changes the reference value to 100 in the console **NOTE :'a' does not refereces to a value !! It's only the reference of the function is been returned here**
+    return y;
+}
+var z = x();
+console.log(z);
+z();
+     ---->>*/
 /***----------------------------------------------------------------------------------------------***/
 // Example:4 Three function closure example
 /* <<---

@@ -23,7 +23,7 @@ function binary(x) {
 
 // ---- Diffrent ways of writting the map function ---
 
-// Way 1;
+// Way 1:
 
 //let output1 = arr.map(double); //---> the map itterates each value and store in output 1
 
@@ -204,3 +204,4 @@ console.log("filter_age_reduce", output_filter_reduce);
 
 // acc will be the empty object at last and curr is the current value inside the user array
      -----*/
+ 

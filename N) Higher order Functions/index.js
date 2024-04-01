@@ -97,9 +97,14 @@ console.log("Diameter", calculate(radius, diameter));
 
 <<------*/
 
-/*--->>
+
 // To make our function calculate similar to map use Array.prototype
 //--> The function calculate will be available in on all the Arrays
+/*--->>
+const radius = [3, 1, 2, 4];
+const area = function (radius) {      //-->Logic of the  Function is been abstracted out
+    return Math.PI * radius * radius;
+}
 Array.prototype.calculate = function (logic) {
     const output = [];
     for (let i = 0; i < this.length; i++) {
@@ -109,7 +114,7 @@ Array.prototype.calculate = function (logic) {
 }
 // Syntax similar to map function
 console.log("Area", radius.calculate(area));  //--> this in the calculate function will point to the radius over here
- <<------*/
+<<---*/
 
 /*<<----------------------------------------------------------------------------------->>*/
 
@@ -124,3 +129,5 @@ Featues of Map
           - Itterate each and every element inside radius 
           -returns the output
           <<------*/
+
+ 

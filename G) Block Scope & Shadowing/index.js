@@ -46,16 +46,16 @@ console.log(k);
 /*------------->>
 //<---------SHADOWING------------>
 
-  var x =100;  //--->   The global x is shadowed by the x which is inside the block scope in case of var because they points to the same memory location
-  let y =20; //-->  "Stored in Script in a seperate memory". In case if let the variable which is in let has stored in Script memory  which is outside the block scope 
-  const z=30; //-->similar to let
+  var x =100;          //--->   The global x is shadowed by the x which is inside the block scope in case of var because they points to the same memory location
+  let y =20;          //-->  "Stored in Script in a seperate memory". In case if the variable which is in let has stored in Script memory  which is outside the block scope 
+  const z=30;        //-->similar to let
 
   function s(){ //--> shadowing is similar also when we use a function
     var x=200;
     let y=300;  //--> y is stored inside the block memory 
     const z=400;
     console.log(x);  //--> displayes the shadowed value which is inside the block
-    console.log(y);  //-->Shadowed by the value which is outside of the block scope
+    console.log(y);  //-->Shadowed by the value which is inside of the block scope with different memory location
     console.log(z);  //--> In case of const it is very similar to let
   }
   s();
@@ -90,7 +90,7 @@ console.log(a);
 
 //<---------LEXICAL SCOPE------------>
 //Lexical means one scope inside another scope
-// Each and every blocjk has its own lexical scope and allocates memory accordingly in sperate block
+// Each and every block has its own lexical scope and allocates memory accordingly in sperate block
 /*------------->>
 const a =10 //--> Memory allocated in the script block
 {
@@ -107,3 +107,5 @@ console.log(a); //Prints a=10
                  
 // ---**NOTE**---
 //All the scope rules which are applicable to the normal function are also applicable to the arrow function i.e., function a(){scope rules}  ==  var a() = () =>{scope rules}
+
+

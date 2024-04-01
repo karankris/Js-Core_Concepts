@@ -34,10 +34,10 @@ console.log("End");
 <<-----*/
 
 // Explanation:
-//document.getElementById("clickMe").addEventListener("click", function cb() { }) --> It Register the callback methord into it and attaches a "click" event to it but the event handler will stay inside the web API environment and it never goes off untill we explicitly close the browser, When the user clicks the button the cb() goes into callback queue and wait for it to place inside the call stack Event loop is only job is to monitor the callstack ass weel as the call back queue
+//document.getElementById("clickMe").addEventListener("click", function cb() { }) --> It Register the callback methord into it and attaches a "click" event to it but the event handler will stay inside the web API environment and it never goes off untill we explicitly close the browser, When the user clicks the button the cb() goes into callback queue and wait for it to place inside the call stack Event loop is only job is to monitor the callstack ass well as the call back queue
 
 //Fetch() API
-// Fetch basically request an API call fetch returns a promise on after then the callback is executed it is placed inside the microtask queue (All the callback fucntion through promises comes to microtask queue and it has a higher prirority)
+// Fetch basically request an API call fetch returns a promise on after then the callback is executed it is placed inside the microtask queue (All the callback function through promises comes to microtask queue and it has a higher prirority)
 
 console.log("start");
 

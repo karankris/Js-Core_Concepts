@@ -18,15 +18,14 @@ x=200;
 console.log(x);// In case of let the variables can be initialized seperately and assigned to a value seperatly
 
 /*const y; // In case of const the initialization and assignment should be done at the same place
-y=200;     //Uncaught SyntaxError: Missing initializer in const declaration (at index.js:17:7)*/
+y=200;     //Uncaught SyntaxError: Missing initializer in const declaration */
 
 // Example 2 TYPE ERROR:
 // let i = 20;
 // i=400;
 // console.log(i); // In case if let it can be re-assigned weather even the variable is already decleared
 /*const j=10; 
-j=1000;  // We can't re-assign a variable in case of const throws TYPE ERROR
-index.js:29 Uncaught TypeError: Assignment to constant variable. at index.js:29:2 */
+j=1000;  // We can't re-assign a variable in case of const throws TYPE ERROR: Uncaught TypeError: Assignment to constant variable. */
 
 
 /* ------------------------------------------------------------------------------------------*/
@@ -38,7 +37,7 @@ TYPE ERROR: If there is a const initialiation, the initialization and decleratio
 
 SYNTAX ERROR: If there is a keyword const then the variable must be initialized or else it has a error in its syntax and in case of let and const the variables must not be duplicated in case of declaration else it throws a SyntaxError
 
- REFRENCE ERROR: When the js engine search for a variable or a function inside the global space if the varible was not found and in case of let and const if the variable is in the temporal deadzone then there is a ReferenceError 
+REFERENCE ERROR: When the js engine search for a variable or a function inside the global space if the varible was not found and in case of let and const if the variable is in the temporal deadzone then there is a ReferenceError 
                                                                                       ---------->*/
 
 /* ------------------------------------------------------------------------------------------*/
