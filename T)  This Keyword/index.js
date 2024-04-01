@@ -150,5 +150,5 @@ let obj2 = {
 };
 obj2.x();
  <<---*/
-// this keyword inside the dom => reference to the HTML element
+// this keyword inside the dom => reference to the HTML element (refer index.html)
 
