@@ -52,7 +52,6 @@ For example, to understand hoisting, navigate to the `hoisting` directory:
 
 ``` bash
 cd Js-Core_Concepts/hoisting
-
 ```
 
 
