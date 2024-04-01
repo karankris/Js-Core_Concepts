@@ -16,9 +16,9 @@ JavaScript is a versatile programming language that powers the web. Understandin
 
 - [Hoisting](https://github.com/karankris/Js-Core_Concepts/tree/main/A%29%20Hoisting/index.js) 
 - [Functions and Variable Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/B%29%20Functions%20and%20Variable%20Environment/index.js) 
-- [ window & this keyword](https://github.com/karankris/Js-Core_Concepts/blob/main/C%29%20window%20%26%20this%20keyword/index.js)
-- Scope
-- Closures
+- [Window & this keyword](https://github.com/karankris/Js-Core_Concepts/blob/main/C%29%20window%20%26%20this%20keyword/index.js)
+- [Undefined VS notdefined](https://github.com/karankris/Js-Core_Concepts/blob/main/D%29%20undefined_notdefined/index.js)
+- [Scope & Lexical Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/E%29%20Scope%20%26%20Lexical%20Environment/index.js)
 - Objects
 - Prototypes
 - Asynchronous JavaScript
