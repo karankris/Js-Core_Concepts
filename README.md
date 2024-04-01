@@ -22,7 +22,7 @@ Welcome to the JavaScript Core Concepts repository! This repository serves as a 
 JavaScript is a versatile programming language that powers the web. Understanding its core concepts is essential for building robust and efficient applications. This repository covers a range of fundamental concepts, including but not limited to:
 
 - [Hoisting](https://github.com/karankris/Js-Core_Concepts/tree/main/A%29%20Hoisting/index.js) 
-- [Functions and Variable Environment](https://github.com/karankris/Js-Core_Concepts/tree/main/B%29%20Functions and Variable Environment/index.js) 
+- [Functions and Variable Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/B%29%20Functions%20and%20Variable%20Environment/index.js) 
 - Functions
 - Scope
 - Closures
