@@ -20,8 +20,8 @@ JavaScript is a versatile programming language that powers the web. Understandin
 - [Undefined VS notdefined](https://github.com/karankris/Js-Core_Concepts/blob/main/D%29%20undefined_notdefined/index.js)
 - [Scope & Lexical Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/E%29%20Scope%20%26%20Lexical%20Environment/index.js)
 - [Let & Const](https://github.com/karankris/Js-Core_Concepts/blob/main/F%29%20Let%20%26%20Const/index.js)
-- Prototypes
-- Asynchronous JavaScript
+- [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%2920Block%20Scope%20%26%20Shadowing/index.js)
+- [Closures](https://github.com/karankris/Js-Core_Concepts/blob/main/H%29%20Closures/index.js)
 - Error Handling
 
 Each concept is explained in detail with code examples to illustrate its usage and importance in JavaScript development.
