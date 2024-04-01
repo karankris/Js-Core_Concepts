@@ -1,10 +1,3 @@
-## Js-Core_Concepts
-
-[1) Hoisting](https://github.com/karankris/Js-Core_Concepts/tree/main/A%29%20Hoisting/index.js) 
-
-
- Hoisting is the default behavior in JavaScript where declarations of variables and functions are moved to the top of their respective scopes during the compilation phase. This ensures that regardless of where variables and functions are declared within a scope, they are accessible throughout that scope.
-
 # JavaScript Core Concepts
 
 Welcome to the JavaScript Core Concepts repository! This repository serves as a comprehensive guide to understanding the fundamental concepts of JavaScript. Whether you're a beginner looking to grasp the basics or an experienced developer seeking a refresher, this resource is designed to aid your journey in mastering JavaScript.
@@ -23,7 +16,7 @@ JavaScript is a versatile programming language that powers the web. Understandin
 
 - [Hoisting](https://github.com/karankris/Js-Core_Concepts/tree/main/A%29%20Hoisting/index.js) 
 - [Functions and Variable Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/B%29%20Functions%20and%20Variable%20Environment/index.js) 
-- Functions
+- [ window & this keyword](https://github.com/karankris/Js-Core_Concepts/blob/main/C%29%20window%20%26%20this%20keyword/index.js)
 - Scope
 - Closures
 - Objects
