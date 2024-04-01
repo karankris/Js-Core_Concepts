@@ -8,7 +8,6 @@ Welcome to the JavaScript Core Concepts repository! This repository serves as a 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -70,9 +69,7 @@ Contributions to this repository are welcome! Whether it's fixing a typo, adding
 5. Push to the branch (`git push origin feature/your-contribution`).
 6. Create a new Pull Request.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
