@@ -20,7 +20,7 @@ JavaScript is a versatile programming language that powers the web. Understandin
 - [Undefined VS notdefined](https://github.com/karankris/Js-Core_Concepts/blob/main/D%29%20undefined_notdefined/index.js)
 - [Scope & Lexical Environment](https://github.com/karankris/Js-Core_Concepts/blob/main/E%29%20Scope%20%26%20Lexical%20Environment/index.js)
 - [Let & Const](https://github.com/karankris/Js-Core_Concepts/blob/main/F%29%20Let%20%26%20Const/index.js)
-- [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%2920Block%20Scope%20%26%20Shadowing/index.js)
+- [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%29%20Block%20Scope%20%26%20Shadowing/index.js)
 - [Closures](https://github.com/karankris/Js-Core_Concepts/blob/main/H%29%20Closures/index.js)
 - [setTimeout](https://github.com/karankris/Js-Core_Concepts/blob/main/I%29%20setTimeout/index.js)
 - [First class functions](https://github.com/karankris/Js-Core_Concepts/blob/main/J%29%20First%20class%20functions/index.js)
