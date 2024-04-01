@@ -2,7 +2,7 @@
 
 //Example of hoisting:
 
-//--> The output here for x will be undefined because the varibale is present in the global environment and x variable is initialized only after x is been used up so according to hoisting we must declare the functions and varibles at the top of the respective scopes.
+//--> The output here for x will be undefined because the variable is present in the global environment and x variable is initialized only after x is been used up so according to hoisting we must declare the functions and varibles at the top of the respective scopes.
 
 /*--->>
 
