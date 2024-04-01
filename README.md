@@ -23,7 +23,7 @@ JavaScript is a versatile programming language that powers the web. Understandin
 - [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%2920Block%20Scope%20%26%20Shadowing/index.js)
 - [Closures](https://github.com/karankris/Js-Core_Concepts/blob/main/H%29%20Closures/index.js)
 - [setTimeout](https://github.com/karankris/Js-Core_Concepts/blob/main/I%29%20setTimeout/index.js)
-- [First class functions](https://github.com/karankris/Js-Core_Concepts/tree/main/J%2920First%20class%20functions)
+- [First class functions](https://github.com/karankris/Js-Core_Concepts/blob/main/J%29%20First%20class%20functions/index.js)
 - [Callback](https://github.com/karankris/Js-Core_Concepts/blob/main/K%29%20Callback/index.js)
 - [EventLoops](https://github.com/karankris/Js-Core_Concepts/blob/main/L%29%20EventLoops/index.js)
 - [Js Engine](https://github.com/karankris/Js-Core_Concepts/blob/main/M%29%20Js%20Engine/index.js)
