@@ -23,6 +23,10 @@ JavaScript is a versatile programming language that powers the web. Understandin
 - [Block Scope & Shadowing](https://github.com/karankris/Js-Core_Concepts/blob/main/G%2920Block%20Scope%20%26%20Shadowing/index.js)
 - [Closures](https://github.com/karankris/Js-Core_Concepts/blob/main/H%29%20Closures/index.js)
 - [setTimeout](https://github.com/karankris/Js-Core_Concepts/blob/main/I%29%20setTimeout/index.js)
+- [First class functions](https://github.com/karankris/Js-Core_Concepts/tree/main/J%2920First%20class%20functions)
+- [Callback](https://github.com/karankris/Js-Core_Concepts/blob/main/K%29%20Callback/index.js)
+- [EventLoops](https://github.com/karankris/Js-Core_Concepts/blob/main/L%29%20EventLoop%29%20Higher%20order%20Functions/index.js)
+- [Map Reduce and Filter](https://github.com/karankris/Js-Core_Concepts/blob/main/O%29%20Map%20Reduce%20and%20Filter/index.js)
 
 Each concept is explained in detail with code examples to illustrate its usage and importance in JavaScript development.
 
